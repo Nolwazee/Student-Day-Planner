@@ -2,9 +2,9 @@
 
 Stay Organized, Manage Your Time, Achieve More
 
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/student-day-planner)
-![Languages](https://img.shields.io/github/languages/count/yourusername/student-day-planner)
-![Top Language](https://img.shields.io/github/languages/top/yourusername/student-day-planner)
+![Last Commit](https://img.shields.io/github/last-commit/Nolwazee/student-day-planner)
+![Languages](https://img.shields.io/github/languages/count/Nolwazee/student-day-planner)
+![Top Language](https://img.shields.io/github/languages/top/Nolwazee/student-day-planner)
 
 ---
 
