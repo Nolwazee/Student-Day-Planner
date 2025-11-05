@@ -59,4 +59,5 @@ Contact
 
 For any questions, feedback, or collaboration, reach out to me at:
 📧 nomfundomanyoni2003@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/nomfundo-nolwazi-manyoni-85b438226
