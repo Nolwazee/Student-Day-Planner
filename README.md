@@ -47,15 +47,15 @@ The **Student Day Planner** is a web-based application designed to help students
    ```bash
    git clone https://github.com/NolwaZee/Student-Day-Planner.git
 
-Technologies Used
+## Technologies Used
 
-HTML: Structure and content layout.
+**HTML:** Structure and content layout.
 
-CSS: Styling, responsive design, and user interface enhancements.
+**CSS:** Styling, responsive design, and user interface enhancements.
 
-JavaScript: Dynamic task management, DOM manipulation, and interactivity.
+**JavaScript:** Dynamic task management, DOM manipulation, and interactivity.
 
-Contact
+## Contact  
 
 For any questions, feedback, or collaboration, reach out to me at:
 📧 nomfundomanyoni2003@gmail.com
