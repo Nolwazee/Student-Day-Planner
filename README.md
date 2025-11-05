@@ -45,7 +45,7 @@ The **Student Day Planner** is a web-based application designed to help students
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-day-planner.git
+   git clone https://github.com/NolwaZee/Student-Day-Planner.git
 
 Technologies Used
 
@@ -58,6 +58,5 @@ JavaScript: Dynamic task management, DOM manipulation, and interactivity.
 Contact
 
 For any questions, feedback, or collaboration, reach out to me at:
-📧 your.email@example.com
-
-💼 LinkedIn
+📧 nomfundomanyoni2003@gmail.com
+💼 LinkedIn: www.linkedin.com/in/nomfundo-nolwazi-manyoni-85b438226
